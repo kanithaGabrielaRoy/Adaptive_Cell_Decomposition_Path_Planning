@@ -134,7 +134,7 @@ ros2 launch acd_planner acd_planner.launch.py
 
 ## Adaptive Cell Decomposition
 
-![Cell Decomposition](images/cell_deposition_of_planned_path.jpeg)
+![Cell Decomposition](images/cell_decomposition_of_planned_path.jpeg)
 
 ---
 
