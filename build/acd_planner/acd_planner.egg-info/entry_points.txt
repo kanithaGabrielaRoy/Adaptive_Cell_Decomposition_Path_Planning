@@ -1,3 +1,0 @@
-[console_scripts]
-adaptive_cell_decomposition = acd_planner.adaptive_cell_decomposition:main
-
